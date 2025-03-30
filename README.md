@@ -1,6 +1,6 @@
 # Random Dice Plugin (隨機骰子插件) (歷史久遠純紀錄不保證能用)
 
-![RD](./imgs/1EE8AF75-CA81-4B64-B49D-BD4CABE7CF9A.png)
+![RD](./1EE8AF75-CA81-4B64-B49D-BD4CABE7CF9A.png)
 
 基於YOLOv5的Random Dice遊戲自動化輔助工具，可以識別遊戲元素並執行自動操作。
 
